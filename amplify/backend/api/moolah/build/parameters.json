@@ -1,7 +1,0 @@
-{
-    "AppSyncApiName": "moolah",
-    "DynamoDBBillingMode": "PAY_PER_REQUEST",
-    "DynamoDBEnableServerSideEncryption": false,
-    "S3DeploymentBucket": "amplify-moolah-staging-230706-deployment",
-    "S3DeploymentRootKey": "amplify-appsync-files/dfcb55000e3c5abde92676cce3a0d5766a059126"
-}
