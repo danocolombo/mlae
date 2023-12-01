@@ -1,0 +1,32 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-moolah-staging-230706-authRole",
+      "UnauthRoleArn": "arn:aws:iam::226036691416:role/amplify-moolah-staging-230706-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::226036691416:role/amplify-moolah-staging-230706-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-moolah-staging-230706-deployment",
+      "UnauthRoleName": "amplify-moolah-staging-230706-unauthRole",
+      "StackName": "amplify-moolah-staging-230706",
+      "StackId": "arn:aws:cloudformation:us-east-1:226036691416:stack/amplify-moolah-staging-230706/8fad4450-6baf-11ee-ae00-0e5979a7a369",
+      "AmplifyAppId": "d3c7uyfj0cd3fn"
+    },
+    "categories": {
+      "auth": {
+        "moolah": {
+          "userPoolId": "us-east-1_XfCmPlVrn",
+          "userPoolName": "moolah2cbc22587_userpool_cbc22587-dev",
+          "webClientId": "69o9q49npvhkdbhshk2i2ah9n9",
+          "nativeClientId": "69o9q49npvhkdbhshk2i2ah9n9",
+          "identityPoolId": "us-east-1:e63620da-294a-4ceb-b528-86a7699601b4",
+          "identityPoolName": "moolah2cbc22587_identitypool_cbc22587__dev",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::226036691416:role/amplify-moolah2-dev-200522-authRole",
+          "authRoleName": "amplify-moolah2-dev-200522-authRole",
+          "unauthRoleArn": "arn:aws:iam::226036691416:role/amplify-moolah2-dev-200522-unauthRole",
+          "unauthRoleName": "amplify-moolah2-dev-200522-unauthRole"
+        }
+      }
+    }
+  }
+}
