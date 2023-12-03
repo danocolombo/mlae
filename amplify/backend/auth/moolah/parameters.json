@@ -1,14 +1,18 @@
 {
-  "authSelections": "identityPoolAndUserPool",
+  "authSelections": "userPoolOnly",
   "resourceName": "moolah",
   "serviceType": "imported",
   "region": "us-east-1",
-  "authProvidersUserPool": [],
   "requiredAttributes": [
     "email"
   ],
   "passwordPolicyMinLength": 8,
-  "passwordPolicyCharacters": [],
+  "passwordPolicyCharacters": [
+    "Requires Lowercase",
+    "Requires Uppercase",
+    "Requires Numbers",
+    "Requires Symbols"
+  ],
   "mfaConfiguration": "OFF",
   "autoVerifiedAttributes": [
     "email"

@@ -32,63 +32,7 @@
     }
   },
   "parameters": {
-    "AMPLIFY_auth_moolah_allowUnauthenticatedIdentities": {
-      "usedBy": [
-        {
-          "category": "auth",
-          "resourceName": "moolah"
-        }
-      ]
-    },
-    "AMPLIFY_auth_moolah_authRoleArn": {
-      "usedBy": [
-        {
-          "category": "auth",
-          "resourceName": "moolah"
-        }
-      ]
-    },
-    "AMPLIFY_auth_moolah_authRoleName": {
-      "usedBy": [
-        {
-          "category": "auth",
-          "resourceName": "moolah"
-        }
-      ]
-    },
-    "AMPLIFY_auth_moolah_identityPoolId": {
-      "usedBy": [
-        {
-          "category": "auth",
-          "resourceName": "moolah"
-        }
-      ]
-    },
-    "AMPLIFY_auth_moolah_identityPoolName": {
-      "usedBy": [
-        {
-          "category": "auth",
-          "resourceName": "moolah"
-        }
-      ]
-    },
     "AMPLIFY_auth_moolah_nativeClientId": {
-      "usedBy": [
-        {
-          "category": "auth",
-          "resourceName": "moolah"
-        }
-      ]
-    },
-    "AMPLIFY_auth_moolah_unauthRoleArn": {
-      "usedBy": [
-        {
-          "category": "auth",
-          "resourceName": "moolah"
-        }
-      ]
-    },
-    "AMPLIFY_auth_moolah_unauthRoleName": {
       "usedBy": [
         {
           "category": "auth",

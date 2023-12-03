@@ -14,17 +14,10 @@
     "categories": {
       "auth": {
         "moolah": {
-          "userPoolId": "us-east-1_XfCmPlVrn",
-          "userPoolName": "moolah2cbc22587_userpool_cbc22587-dev",
-          "webClientId": "69o9q49npvhkdbhshk2i2ah9n9",
-          "nativeClientId": "69o9q49npvhkdbhshk2i2ah9n9",
-          "identityPoolId": "us-east-1:e63620da-294a-4ceb-b528-86a7699601b4",
-          "identityPoolName": "moolah2cbc22587_identitypool_cbc22587__dev",
-          "allowUnauthenticatedIdentities": false,
-          "authRoleArn": "arn:aws:iam::226036691416:role/amplify-moolah2-dev-200522-authRole",
-          "authRoleName": "amplify-moolah2-dev-200522-authRole",
-          "unauthRoleArn": "arn:aws:iam::226036691416:role/amplify-moolah2-dev-200522-unauthRole",
-          "unauthRoleName": "amplify-moolah2-dev-200522-unauthRole"
+          "userPoolId": "us-east-1_KjA3C4xi8",
+          "userPoolName": "mlae",
+          "webClientId": "5t9q5mnkdulm6b4ss98in4ntet",
+          "nativeClientId": "5t9q5mnkdulm6b4ss98in4ntet"
         }
       }
     }

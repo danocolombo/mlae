@@ -40,6 +40,7 @@ yarn-error.*
 expo-env.d.ts
 # @end expo-cli
 
+src/aws-exports.js
 #amplify-do-not-edit-begin
 amplify/\#current-cloud-backend
 amplify/.config/local-*
